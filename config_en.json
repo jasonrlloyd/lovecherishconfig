@@ -1,0 +1,361 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "showLogo": true
+    },
+    {
+      "layout": "announceBar",
+      "title": "CLICK & COLLECT",
+      "backgroundColor": "601856",
+      "textColor": "ffffff"
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "autoPlay": true,
+      "showNumber": false,
+      "design": "default",
+      "showBackGround": true,
+      "height": 0.4,
+      "radius": 0.0,
+      "items": [
+        {
+          "category": "gid://shopify/Collection/264314552505",
+          "cateName": "New Arrivals",
+          "image": "https://blogger.googleusercontent.com/img/a/AVvXsEiOf4hdvzBg5dstqvJFT-iVMj23nMdGZz9S6b5zb1ZXaAWrYzduL7CcvqzBdpTYqjMy9eH37-DCZ7TIPr7IVdQMr3TM2X8QIbb4Pupf4k3mUhFTlpwNoaMtmYT8VcyvFQ9U5EwZrlHxxuKvcoUPqN_LYg1gvOy_EcXcL97PDxn_HxZ3jyxLpdO_mx88"
+        },
+        {
+          "category": "gid://shopify/Collection/45082345523",
+          "cateName": "Cute Casuals",
+          "image": "https://blogger.googleusercontent.com/img/a/AVvXsEiqAb8iFwpKWL-9sKk5y3eskYZZC6bYRZULHY4U8KRRlvXOV-0xFKkqbKZWZdxW9TqSsJEqopB_TPQxF9e44pqBBk2Hrtm-v_rmKJUu8iqJKFDvZp2mhv3le-Tz0R296khoa0EEYqG0AL7PfX0K6zZiFNKa6zFtIUHnuMOoZUFFLxNs2XlY6llTV62u"
+        },
+        {
+          "category": "gid://shopify/Collection/45149454387",
+          "cateName": "Occasionwear",
+          "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgkbqPa2SePno23V6fTol2u9RKxZ6rodanpNZWfGh-5jg4IuLHAJHkgTw4VqhcbF3n7sZfIAUdPBT57ZXAR-H2HuDbtlTPSnd6FxmQH0jFd89Jc37KPsktg7sCVDjTbRYIY4RBBqH4o-0yHvOFJ579vgDe92sl11rru1rlpGWLGnnCwvHTnhAA5hrqd"
+        }
+      ]
+    },
+    {
+      "layout": "announceBar",
+      "title": "\uD83D\uDC47\uD83D\uDC4725/05/23: NEW VIDEO BELOW!!!\uD83D\uDC47\uD83D\uDC47",
+      "backgroundColor": "DEFA52",
+      "textColor": "000000",
+      "animate": true
+    },
+    {
+      "layout": "video",
+      "embed": "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Flovecherishalways%2Fvideos%2F1219972075378692%2F&show_text=false&width=267&t=0\" width=\"267\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>"
+    },
+    {
+      "layout": "announceBar",
+      "title": "\uD83D\uDC47\uD83D\uDC47LOVE THIS? SHOP THE LOOK NOW\uD83D\uDC47\uD83D\uDC47",
+      "backgroundColor": "DEFA52",
+      "textColor": "000000",
+      "animate": true
+    },
+    {
+      "layout": "getTheLook",
+      "title": "Shop This Look",
+      "productUrls": [
+        "https://www.lovecherish.com/products/viellette-singlet-satin-dress-pink-yarrow",
+        "https://www.lovecherish.com/collections/footwear/products/canne-leather-sandal-irish-cream"
+      ]
+    },
+    {
+      "layout": "spacer",
+      "height": 20
+    },
+    {
+      "layout": "announceBar",
+      "title": "☝️☝️LOVE THIS? SHOP THE LOOK NOW☝️☝️",
+      "backgroundColor": "DEFA52",
+      "textColor": "000000",
+      "animate": true
+    },
+    {
+      "name": "Recent View",
+      "layout": "recentView"
+    },
+    {
+      "name": "Dresses",
+      "image": "",
+      "layout": "twoColumn",
+      "category": "gid://shopify/Collection/44691521587",
+      "isSnapping": true
+    },
+    {
+      "name": "Accessories",
+      "image": "",
+      "layout": "fourColumn",
+      "category": "gid://shopify/Collection/155946975371",
+      "isSnapping": true
+    },
+    {
+      "name": "All Clothing",
+      "layout": "staggered",
+      "limit": 20,
+      "category": "gid://shopify/Collection/45042270259"
+    },
+    {
+      "name": "Cherish Curve",
+      "image": "",
+      "layout": "twoColumn",
+      "category": "gid://shopify/Collection/600360878423",
+      "isSnapping": true
+    },
+    {
+      "layout": "socials",
+      "facebook": "https://www.facebook.com/lovecherishalways",
+      "instagram": "https://www.instagram.com/lovecherishboutique/",
+      "tiktok": "https://www.tiktok.com/@lovecherishboutique"
+    }
+  ],
+  "Setting": {
+    "MainColor": "#601856",
+    "ProductListLayout": "list",
+    "StickyHeader": true
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "hwu0rkrizt",
+      "remapCategories": [
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+          "name": "Features",
+          "image": "https://cdn.shopify.com/s/files/1/0331/5230/3239/collections/fashion-PN7FSF5_350x500.jpg?v=1581920391"
+        },
+        {
+          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTE2NDkzNQ==",
+          "name": "Bags"
+        },
+        {
+          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTQyNzA3OQ==",
+          "name": "Clothing"
+        },
+        {
+          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwODk2ODMyNw==",
+          "name": "Shoes"
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTUyNTM4Mw==",
+          "name": "Women"
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTYyMzY4Nw==",
+          "name": "Man"
+        }
+      ]
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "pos": 400,
+      "icon": "bag",
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "key": "a2xts0oou6",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "69jw5yx12d",
+      "icon": "person"
+    }
+  ],
+  "searchSuggestion": [
+    "Here's some popular searches...",
+    "Jackets",
+    "Coats",
+    "Dresses",
+    "Trousers",
+    "Jeans",
+    "Knitwear",
+    "Footwear",
+    "Jumpsuits",
+    "Playsuits",
+    "Shorts",
+    "Accessories"
+  ],
+  "OnBoarding": {
+    "data": [
+      {
+        "title": "Welcome to Love Cherish",
+        "image": "assets/images/fogg-delivery-1.png",
+        "desc": "Fluxstore is on the way to serve you. ",
+        "background": "#FFF3F2"
+      },
+      {
+        "title": "Connect Surrounding World",
+        "image": "assets/images/fogg-uploading-1.png",
+        "desc": "See all things happening around you just by a click in your phone. Fast, convenient and clean.",
+        "background": "#F2FFFC"
+      },
+      {
+        "title": "Let's Get Started",
+        "image": "fogg-order-completed.png",
+        "desc": "Waiting no more, let's see what we get!",
+        "background": "#F9F2FF"
+      }
+    ]
+  },
+  "categoriesDropDown": {
+    "items": [
+      {
+        "title": "Shop By Type",
+        "subCategories": [
+          {
+            "title": "Clothing",
+            "items": [
+              {
+                "category": "gid://shopify/Collection/45042270259",
+                "cateName": "All Clothing"
+              },
+              {
+                "category": "gid://shopify/Collection/155946745995",
+                "cateName": "Coats & Jackets"
+              },
+              {
+                "category": "gid://shopify/Collection/44691521587",
+                "cateName": "Dresses"
+              },
+              {
+                "category": "gid://shopify/Collection/155946844299",
+                "cateName": "Jeans & Trousers"
+              },
+              {
+                "category": "gid://shopify/Collection/215068803237",
+                "cateName": "Jumpers & Sweatshirts"
+              },
+              {
+                "category": "gid://shopify/Collection/155946877067",
+                "cateName": "Knitwear"
+              },
+              {
+                "category": "gid://shopify/Collection/155946909835",
+                "cateName": "Jumpsuits & Playsuits"
+              },
+              {
+                "category": "gid://shopify/Collection/155946942603",
+                "cateName": "Shorts & Skirts"
+              },
+              {
+                "category": "gid://shopify/Collection/156022833291",
+                "cateName": "Loungewear"
+              },
+              {
+                "category": "gid://shopify/Collection/285231055033",
+                "cateName": "T-Shirts"
+              },
+              {
+                "category": "gid://shopify/Collection/45041909811",
+                "cateName": "Tops"
+              },
+              {
+                "category": "gid://shopify/Collection/245698724025",
+                "cateName": "Workwear"
+              },
+              {
+                "category": "gid://shopify/Collection/277903835321",
+                "cateName": "Oh Molly"
+              },
+              {
+                "category": "gid://shopify/Collection/600360878423",
+                "cateName": "Cherish Curve"
+              },
+              {
+                "category": "gid://shopify/Collection/438267216193",
+                "cateName": "Sunday Style Sessions"
+              },
+              {
+                "category": "gid://shopify/Collection/45082345523",
+                "cateName": "Cute Casuals"
+              },
+              {
+                "category": "gid://shopify/Collection/45149454387",
+                "cateName": "Occasionwear"
+              }
+            ]
+          },
+          {
+            "title": "Accessories",
+            "items": [
+              {
+                "category": "gid://shopify/Collection/156032434315",
+                "cateName": "Footwear"
+              },
+              {
+                "category": "gid://shopify/Collection/155947040907",
+                "cateName": "Bags & Purses"
+              },
+              {
+                "category": "gid://shopify/Collection/45042401331",
+                "cateName": "Jewellery"
+              },
+              {
+                "category": "gid://shopify/Collection/155947237515",
+                "cateName": "Hats"
+              },
+              {
+                "category": "gid://shopify/Collection/155947139211",
+                "cateName": "Scarves"
+              },
+              {
+                "category": "gid://shopify/Collection/45042466867",
+                "cateName": "Belts"
+              },
+              {
+                "category": "gid://shopify/Collection/288219496633",
+                "cateName": "Sunglasses"
+              },
+              {
+                "category": "gid://shopify/Collection/288219594937",
+                "cateName": "Hair Accessories"
+              },
+              {
+                "category": "gid://shopify/Collection/298514940089",
+                "cateName": "Gifting"
+              }
+            ]
+          }
+        ],
+        "individualCategories": [
+          {
+            "category": "gid://shopify/Collection/264314552505",
+            "cateName": "New Arrivals"
+          },
+          {
+            "category": "gid://shopify/Collection/45082378291",
+            "cateName": "SALE"
+          }
+        ]
+      }
+    ]
+  }
+}
