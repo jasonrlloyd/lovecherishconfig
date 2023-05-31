@@ -12,6 +12,17 @@
       "backgroundColor": "601856",
       "textColor": "ffffff"
     },
+     {
+      "layout": "announceBar",
+      "title": "WELCOME TO THE D BIGGINS APP",
+      "backgroundColor": "DEFA52",
+      "textColor": "000000",
+      "animate": true,
+      "totalRepeatCount": 10
+    },
+    {
+      "layout": "categorySlider"
+    },
     {
       "layout": "bannerImage",
       "isSlider": true,
